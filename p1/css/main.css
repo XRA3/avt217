@@ -13,6 +13,17 @@ h2 {
   text-align: center;
 }
 
+h2 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 70px;
+}
+
 body {
   font-family: Agency FB;
 }
