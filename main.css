@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  padding: 20px;
+  border: 10px solid #08415c;
+  font-family: 'Reggae One', cursive;
+}
+h3 {
+  padding: 14px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  color: #283044
+}
+ul {
+  color: #e9afa3;
+  text-align: left;
+  border-radius: left;
+  list-style-type: none;
+  text-decoration: none;
+  font-family: 'Reggae One', cursive;
+}
+a:hover {
+  color: blue;
+}
+body {
+  background-color: #faf3dd;
+}

@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sidebar {
+  height: 500px;
+  background-color: #F09A9D;    /* Red */
+}
+
+.content {
+  height: 500px;
+  background-color: #F5CF8E;    /* Yellow */
+}
+
+.footer {
+  height: 400px;
+  background-color: #D6E9FE;    /* Light blue */
+}
+.menu-container {
+  background-color: #DCA55A;
+ height: 100px;
+}
+
+.menu2 {
+  width: 900px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+img {
+width: 100%;
+}
+.events {
+  margin-bottom: left;
+}
