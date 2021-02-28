@@ -1,0 +1,53 @@
+body {
+  color: white
+  font-family: 'DM Sans', sans-serif;
+  background-color: Bisque;
+}
+h1 {
+  color: #264653;
+  font-family: 'Ballet', cursive;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+  border: 2px solid;
+}
+p {
+  color: black;
+font-family: 'Architects Daughter', cursive;
+  text-align: center;
+}
+h2 {
+  color: #2A9D8F;
+  border: 2px solid;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: left-center;
+  padding: 10px 90px;
+}
+
+#paragraph {
+  color: black;
+  font-family: 'Architects Daughter', cursive;
+  text-align: left;
+  padding: 10px 90px;
+}
+#link {
+  color: tomato
+}
+h4 {
+  color: black;
+}
+ul {
+  color: purple;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+  border-radius: center;
+  list-style-type: none;
+}
+.author {
+  color: blue;
+  font-family: 'Ballet', cursive;
+  text-align: right;
+}
+a:hover {
+  color: red;
+}
