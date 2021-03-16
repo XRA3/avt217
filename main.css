@@ -61,3 +61,46 @@ ul a:hover {
   color: red;
   display: inline;
 }
+
+@media screen and (max-width: 959px) {
+  .col {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  h3 {
+    font-weight: 900;
+    width: 150px;
+    background: linear-gradient(to right, blue, gold);
+  }
+  h1 {
+    font-size: 3rem;
+    text-align: left;
+    font-weight: 700;
+    text-transform; uppercase;
+    width: 75vw;
+    margin: 50px auto;
+  font-family: 'Orbitron', sans-serif;
+  border: 10px solid blue;
+  }
+}
+@media screen and (max-width: 719px) {
+  .col {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  h3 {
+    font-weight: 900;
+    width: 150px;
+    background: linear-gradient(to right, purple, gold);
+  }
+  h1 {
+    font-size: 2rem;
+    text-align: left;
+    font-weight: 700;
+    text-transform; uppercase;
+    width: 75vw;
+    margin: 50px auto;
+  font-family: 'Orbitron', sans-serif;
+  border: 10px solid purple;
+  }
+}
