@@ -8,3 +8,113 @@ div {
 .shape42 {
   color: blue;
 }
+.shape2{
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  float: left;
+  opacity: .20;
+  margin: -10px;
+}
+.shape3{
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  float: left;
+  opacity: .2;
+  margin: -15px;
+  border: 1px solid white;
+}
+.shape4{
+  width: 100px;
+  height: 100px;
+    opacity: 2;
+    margin: -10px;
+  background-color: blue;
+  float: left;
+  border: 3px solid black;
+}
+.shape5{
+  width: 100px;
+    opacity: .3;
+  height: 100px;
+  margin:-10px;
+  background-color: purple;
+  float: left;
+  border: 5px solid black;
+}
+.shape6{
+  width: 100px;
+    opacity: .10;
+  height: 100px;
+  margin:-10px;
+  background-color: tomato;
+  float: left;
+  border: 5px solid white;
+  transform: rotate(45deg);
+}
+.shape7{
+  width: 100px;
+  height: 100px;
+    opacity: 6;
+    margin: -10px;
+  background-color: pink;
+  float: left;
+  border: 2px solid black;
+  transform: rotate(84deg);
+}
+.shape8{
+  width: 100px;
+  height: 100px;
+    opacity: .2;
+    margin: -10px;
+  background-color: green;
+  float: left;
+  border: 5px solid gold;
+  transform: rotate(45deg);
+}
+.shape9{
+  width: 100px;
+    opacity: .5;
+  height: 100px;
+  margin:-10px;
+  background-color: blue;
+  float: left;
+  border: 2px solid white;
+}
+.shape11{
+  width: 100px;
+    opacity: .5;
+  height: 100px;
+  margin:-10px;
+  background-color: blue;
+  float: left;
+  border: 2px solid black;
+}
+.shape12{
+  width: 100px;
+    opacity: .5;
+  height: 100px;
+  margin:-10px;
+  background-color: pink;
+  float: left;
+  border: 2px solid black;
+}
+.shape13{
+  width: 100px;
+    opacity: .5;
+  height: 100px;
+  margin:-10px;
+  background-color: pink;
+  float: left;
+  border: 10px solid black;
+}
+.shape14{
+  width: 100px;
+    opacity: 1;
+  height: 100px;
+  margin:-10px;
+  background-color: blue;
+  float: left;
+  border-radius: 50%;
+}
