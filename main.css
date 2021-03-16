@@ -1,26 +1,63 @@
-h1 {
-  text-align: center;
-  padding: 20px;
-  border: 10px solid #08415c;
-  font-family: 'Reggae One', cursive;
+* {
+  box-sizing: border-box;
 }
-h3 {
-  padding: 14px;
-  font-family: 'Amatic SC', cursive;
-  font-size: 30px;
-  color: #283044
-}
-ul {
-  color: #e9afa3;
-  text-align: left;
-  border-radius: left;
-  list-style-type: none;
-  text-decoration: none;
-  font-family: 'Reggae One', cursive;
-}
-a:hover {
-  color: blue;
+html {
+  font-size: 16px;
 }
 body {
   background-color: #faf3dd;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  margin-left: auto;
+}
+h1 {
+  width: 75vw;
+  margin: 50px auto;
+font-family: 'Orbitron', sans-serif;
+border: 10px solid red;
+}
+h3 {
+  text-align: left;
+  font-family: 'DotGothic16', sans-serif;
+}
+
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: left;
+  font-weight: 700;
+  text-transform; uppercase;
+}
+h3 {
+  font-size: 2rem;
+  text-align: left;
+  width: 15.5vw;
+  font-weight: 700;
+  background: linear-gradient(to right, red, orange);
+}
+.col {
+  width: 50%;
+  float: left;
+}
+ul {
+  list-style-type: none;
+  text-align: left;
+  position: sticky;
+  padding: 2px;
+}
+li a {
+  display: block;
+  color: black;
+  transition: width .3s;
+  padding: 5px;
+
+}
+ul a:hover {
+  color: red;
+  display: inline;
 }
