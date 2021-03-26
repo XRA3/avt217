@@ -10,8 +10,96 @@
   background-color: tomato;
   float: left;
 }
+body {
+  margin: 0;
+}
 .board {
   width: 800px;
   display: flow-root;
   margin: 100px auto;
+}
+.columnGrid {
+  width: 800px;
+  margin: 50px auto 0;
+}
+.header {
+  background-color: #699976;
+  width: 800px;
+  height: 85px;
+  margin: 0 0 10px 0;
+  float: left;
+}
+.tiny {
+  width: 800px;
+  height: 15px;
+  margin: 0 0 10px 0;
+  background-color: #DEEC7E;
+  float: left;
+}
+.boxOne {
+  width: 260px;
+  height: 600px;
+  margin: 0 10px 10px 0;
+  background-color: #8BB26E;
+  float: left;
+}
+.boxTwo {
+  width: 260px;
+  height: 600px;
+  margin: 0 0 10px 0;
+  background-color: #566D80;
+  float: left;
+}
+.footer {
+  width: 800px;
+  height: 85px;
+  background-color: #699976;
+  float: left;
+}
+.blogLayout {
+  width: 820px;
+  display: flow-root;
+  margin: 50px auto 0;
+}
+.head {
+  background-color: blue;
+  height: 150px;
+  width: 800px;
+  margin-bottom: 100px;
+  float: left;
+}
+.info {
+  background-color: pink;
+  height: 400px;
+  width: 600px;
+  margin-bottom: 15px;
+  float: left;
+}
+.side {
+  background-color: blue;
+  height: 210px;
+  width: 190px;
+  margin-left: 15px;
+  float: left;
+}
+.bottom {
+  width: 600px;
+  height: 50px;
+  margin: 0px auto;
+  background-color: purple;
+  float: left;
+  margin-bottom: 85px;
+}
+.last {
+  height: 45px;
+  width: 800px;
+  margin: 60px;
+  margin-bottom: 100px;
+}
+.info2 {
+  background-color: pink;
+  height: 400px;
+  width: 600px;
+  margin-bottom: 15px;
+  float: left;
 }
