@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.top-head {
+  width: 250px;
+  height: 110px;
+  background-color: gold;
+  postion: absolute;
+  top: 110px;
+  left: 325px;
+}
+.face {
+  width: 500px;
+  height: 450px;
+  background-color: gold;
+  border-radius: 50px;
+  postion: absolute;
+  top: 200px;
+  left: 200px;
+}
+.bottom-head {
+  width: 350px;
+  height: 70px;
+  background-color: gold;
+  border-radius: 50px;
+  postion: absolute;
+  top: 650px;
+  left: 275px;
+}
+.eye-l {
+  width: 75px;
+  height: 75px;
+  background-color: black;
+  border-radius: 50px;
+  postion: absolute;
+  top: 300px;
+  left: 315px;
+}
+.eye-r {
+  width: 75px;
+  height: 75px;
+  background-color: black;
+  border-radius: 50px;
+  postion: absolute;
+  top: 300px;
+  left: 510px;
+}
+.head {
+  width: 250px;
+  height: 250px;
+  background-color: pink;
+  postion: absolute;
+  top: 110px;
+  left: 325px;
+}
